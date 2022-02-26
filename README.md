@@ -1,6 +1,6 @@
-# Minecraft Pig
+![Minecraft Pig](/assets/images/minecraft_pig_hero_image.png)
 
-![Minecraft Pig](/assets/images/minecraft_pig_model.png)
+# Minecraft Pig
 
 GitHub repo for my Minecraft Pig.
 
