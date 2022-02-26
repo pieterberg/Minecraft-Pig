@@ -2,6 +2,8 @@
 
 # Minecraft Pig
 
+<img src="https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino&logoColor=FFFFFF&style=flat"/>
+
 GitHub repo for my Minecraft Pig.
 
 
