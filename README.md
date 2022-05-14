@@ -6,5 +6,8 @@
 
 GitHub repo for my Minecraft Pig.
 
+## Milestones
 
-
+- [ ] 1. Design
+- [ ] 2. Enclosure
+- [ ] 3. Electronics
