@@ -10,6 +10,9 @@
 
 ## 1. Colour Scheme
 
+<img src="..\assets\colour_scheme\minecraft_pig_colour_scheme.png" alt="Minecraft Pig colour scheme" width="70%">
+
+Figure 1: The Minecraft Pig's colour scheme
 
 ## 2. Grid Design
 
