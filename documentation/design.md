@@ -19,13 +19,12 @@ Figure 1: The Minecraft Pig's colour scheme
 
 ### 2.1. Side View
 
-<img src="..\assets\grid_design\grid_design_side_view.png" alt="Side grid view" width="100%">
+<img src="..\assets\grid_design\grid_design_side_view.png" alt="Side grid view" width="60%">
 
 ### 2.2. Front View
 
-<img src="..\assets\grid_design\grid_design_front_view.png" alt="Front grid view" width="100%">
-
+<img src="..\assets\grid_design\grid_design_front_view.png" alt="Front grid view" width="60%">
 
 ### 2.3. Top View
 
-<img src="..\assets\grid_design\grid_design_top_view.png" alt="Top grid view" width="100%">
+<img src="..\assets\grid_design\grid_design_top_view.png" alt="Top grid view" width="60%">
