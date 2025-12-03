@@ -10,9 +10,20 @@
 
 ## 1. Colour Scheme
 
+The colour scheme used for the design of the Minecraft Pig is presented by Figure 1. The light pink colour is used for the body while the dark pink colour is used for the toes and the nostrils. The internal surfaces of the Minecraft Pig are white.
+
 <img src="..\assets\colour_scheme\minecraft_pig_colour_scheme.png" alt="Minecraft Pig colour scheme" width="70%">
 
 Figure 1: The Minecraft Pig's colour scheme
+
+The hex codes for the Minecraft Pig's colour scheme are provided in Table 1.
+
+Table 1: The hex codes for the Minecraft Pig's colour scheme
+
+| Enclosure Colours |  Hex code |
+|-------------------|:---------:|
+| Light Pink        | `#F5B9D2` |
+| Dark Pink         | `#D53B77` |
 
 ## 2. Grid Design
 
