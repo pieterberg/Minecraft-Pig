@@ -29,17 +29,23 @@ Table 1: The hex codes for the Minecraft Pig's colour scheme
 
 ### 2.1. Side View
 
+The side view of the Minecraft Pig superimposed on the design grid is provided by Figure 2.
+
 <img src="..\assets\grid_design\grid_design_side_view.png" alt="Side grid view" width="60%">
 
 Figure 2: The side grid view of the Minecraft Pig. Each block represents 16 mm x 16 mm.
 
 ### 2.2. Front View
 
+The front view of the Minecraft Pig superimposed on the design grid is provided by Figure 3.
+
 <img src="..\assets\grid_design\grid_design_front_view.png" alt="Front grid view" width="60%">
 
 Figure 3: The front grid view of the Minecraft Pig. Each block represents 16 mm x 16 mm.
 
 ### 2.3. Top View
+
+The top view of the Minecraft Pig superimposed on the design grid is provided by Figure 4.
 
 <img src="..\assets\grid_design\grid_design_top_view.png" alt="Top grid view" width="60%">
 
