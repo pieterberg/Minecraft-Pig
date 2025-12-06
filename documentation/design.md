@@ -1,5 +1,9 @@
 # Design
 
+This document provides information about the design of the Minecraft Pig. First, Section 1 provides information about the Minecraft Pig's colour scheme. Thereafter, Section 2 provides information about the grid system used to design the Minecraft Pig.
+
+The colour scheme and grid design images were created using Affinity Designer. The `.afdesign` files are available in the [affinity_designer](../assets/affinity_designer) folder.
+
 ### Table of Contents
 
 - [1. Colour Scheme](#1-colour-scheme)
