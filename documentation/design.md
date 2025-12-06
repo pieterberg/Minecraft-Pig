@@ -27,6 +27,16 @@ Table 1: The hex codes for the Minecraft Pig's colour scheme
 
 ## 2. Grid Design
 
+A grid system is used for the design of the Minecraft Pig.
+
+In the grid system, the legs have dimensions of 4 blocks x 4 blocks x 6 blocks. 
+
+The design uses 67 mm x 67 mm pine posts for the legs.
+
+This results in 16 mm x 16 mm grid, as shown below:
+
+$Grid\ size = \frac{Leg\ width}{4} = \frac{67\ mm}{4} = 16.75\ mm \approx 16\ mm$
+
 ### 2.1. Side View
 
 The side view of the Minecraft Pig superimposed on the design grid is provided by Figure 2.
