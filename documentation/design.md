@@ -14,7 +14,7 @@ The colour scheme and grid design images were created using Affinity Designer. T
 
 ## 1. Colour Scheme
 
-The colour scheme used for the design of the Minecraft Pig is presented by Figure 1. The light pink colour is used for the body while the dark pink colour is used for the toes and the nostrils. The sclerae of the eyes are white and the pupils are black. The internal surfaces of the Minecraft Pig are white.
+The pink colour scheme used for the design of the Minecraft Pig is presented by Figure 1. The light pink colour is used for the body while the dark pink colour is used for the toes and the nostrils. The sclerae of the eyes are white and the pupils are black. The internal surfaces of the Minecraft Pig are white.
 
 <img src="..\assets\colour_scheme\minecraft_pig_colour_scheme.png" alt="Minecraft Pig colour scheme" width="70%">
 
