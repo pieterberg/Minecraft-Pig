@@ -8,4 +8,6 @@
 
 - [Design.md](documentation/design.md) provides information about the design of the Minecraft Pig. First, it provides information about the Minecraft Pig's colour scheme. Thereafter, it provides information about the grid system used to design the Minecraft Pig.
 
+## Fusion 360
 
+The [fusion_360](fusion_360) folder contains the .f3d and .f3z Fusion 360 component and assembly files for the Minecraft Pig enclosure.
